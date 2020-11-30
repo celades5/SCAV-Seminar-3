@@ -24,3 +24,11 @@ For the convertion to specific types, we have followed this guides from the ffmp
 -   **AV1** &rarr; *https://trac.ffmpeg.org/wiki/Encode/AV1*
 
 As we can see in the **pdf file**, the video have been transformed into the outputs specified.
+
+**ex2** To make the mosaic, we execute *ex2* python script, with the names that we have given to the new videos.
+Once we have execute that we can see the a new video with the 4 codecs together. Although it is asked to seek for differences, I can not quite see significant differences between them, excep for a little more distortion in the VP8 compared to the others.
+However, we can state the following:
+
+-   In terms of bit rate, **VP8** and **VP9** consume considerably more than **h265** and **AV1**.
+
+-   Regarding the encoding time, **AV1** is the one that has taken the longest, unlike the **h265** which is the fastest.
