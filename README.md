@@ -17,10 +17,10 @@ For the convertion to specific types, we have followed this guides from the ffmp
 
 -   **VP8** &rarr; *https://trac.ffmpeg.org/wiki/Encode/VP8*
 
--   **VP8** &rarr; *https://trac.ffmpeg.org/wiki/Encode/VP9*
+-   **VP9** &rarr; *https://trac.ffmpeg.org/wiki/Encode/VP9*
 
--   **VP8** &rarr; *https://trac.ffmpeg.org/wiki/Encode/H.265*
+-   **VPH.265** &rarr; *https://trac.ffmpeg.org/wiki/Encode/H.265*
 
--   **VP8** &rarr; *https://trac.ffmpeg.org/wiki/Encode/AV1*
+-   **AV1** &rarr; *https://trac.ffmpeg.org/wiki/Encode/AV1*
 
 As we can see in the **pdf file**, the video have been transformed into the outputs specified.
