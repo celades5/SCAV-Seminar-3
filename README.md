@@ -3,7 +3,7 @@ Seminar 3 for SCAV subject at UPF
 
 **Teacher:** Javi Fernandez
 
-Tis readme intents to explain the second lab in the SCAV subject for the video part.
+Tis readme intents to explain the third semianr in the SCAV subject for the video part.
 
 This repository consists in:
 
@@ -11,7 +11,7 @@ This repository consists in:
 
 **Python exercises:** Containing the code for all the different exercises needed to compute this lab. Run *ex4* containing the menu of all the lab for a full experience. Run each exercise independently if desired.
 
-**ex1:** We are going to carry out the procedure of transforming the videos to VP8, VP9, ​​h265 and AV1 with a single video, in our case it will be 480p called *bbb_480.mp4*. To do the others it would be the same procedure that we implmented for the first convertion. To transform it we will follow the indications of *https://trac.ffmpeg.org.*
+**ex1:** We are going to carry out the procedure of transforming the videos to VP8, VP9, ​​h265 and AV1 with a single video, in our case it will be 480p called *480p_res.mp4*. To do the others it would be the same procedure that we implmented for the first convertion. To transform it we will follow the indications of *https://trac.ffmpeg.org.*
 
 For the convertion to specific types, we have followed this guides from the ffmpeg website.
 
