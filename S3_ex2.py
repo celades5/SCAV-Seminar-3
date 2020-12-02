@@ -18,7 +18,7 @@ def ex2():
             [a0][a1][a2][a3]xstack=inputs=4:layout=0_0|0_h0|w0_0|w0_h0[out] \
             " \
             -map "[out]" \
-            -c:v libx264 -t 30 -f matroska 4in1.mp4')
+            -c:v libx264 -t 30 -f matroska all4.mkv')  # 4in1.mp4
 
 
 if __name__ == "__main__":
