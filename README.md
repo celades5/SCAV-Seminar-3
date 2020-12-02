@@ -26,9 +26,15 @@ For the convertion to specific types, we have followed this guides from the ffmp
 As we can see in the **pdf file**, the video have been transformed into the outputs specified.
 
 **ex2** To make the mosaic, we execute *ex2* python script, with the names that we have given to the new videos.
-Once we have execute that we can see the a new video with the 4 codecs together. Although it is asked to seek for differences, I can not quite see significant differences between them, excep for a little more distortion in the VP8 compared to the others.
+Once we have execute that we can see the a new video with the 4 codecs altogether. Although it is asked to seek for differences, I can not quite see significant differences between them, excep for a little more distortion in the VP8 compared to the others.
 However, we can state the following:
 
 -   In terms of bit rate, **VP8** and **VP9** consume considerably more than **h265** and **AV1**.
 
 -   Regarding the encoding time, **AV1** is the one that has taken the longest, unlike the **h265** which is the fastest.
+
+- **NOTE:** This exercise has been done twice, one with an outuput *.mkv* and another with outuput *.mp4*
+
+**ex3:** This is the streaming part. With the first line in the we would create our live streaming from bbb.mp4 to the corresponding ip. Using *ffplay* and *VLC* app, the live video should be streamed locally. As we can see with the pictures in the *pdf file*, all has been done correctly.
+
+-   **NOTE:** Due to low computation and processing of my pc, we were not able to see the actuall streaming, however, we can see how the packages are being sent and recieved correctly. If there would be any loss of packages, the quality of the frames on the video would decrease for a period of time.
