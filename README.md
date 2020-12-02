@@ -38,3 +38,5 @@ However, we can state the following:
 **ex3:** This is the streaming part. With the first line in the we would create our live streaming from bbb.mp4 to the corresponding ip. Using *ffplay* and *VLC* app, the live video should be streamed locally. As we can see with the pictures in the *pdf file*, all has been done correctly.
 
 -   **NOTE:** Due to low computation and processing of my pc, we were not able to see the actuall streaming, however, we can see how the packages are being sent and recieved correctly. If there would be any loss of packages, the quality of the frames on the video would decrease for a period of time.
+
+**ex4:** Little menu that allows the user to choose an exercise to run, including the streaming option.
