@@ -1,7 +1,7 @@
 # SCAV-Seminar-3
 Seminar 3 for SCAV subject at UPF
 
-**Teacher:** Javi Fernandez
+**Teacher:** Javi Brines
 
 Tis readme intents to explain the third semianr in the SCAV subject for the video part.
 
